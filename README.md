@@ -15,6 +15,20 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm install
 ```
+## Project Setup TAILWINDCSS
+```sh
+npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+```
+
+```sh
+npx tailwindcss init -p
+```
+
+Dans tailwind.config.js remplacer :
+```sh
+purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
+```
+
 
 ### Compile and Hot-Reload for Development
 
