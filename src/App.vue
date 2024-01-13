@@ -78,7 +78,7 @@
       </div>
     </div>
   </section>
-  <section class="w-full h-[1287px] py-32 my-28">
+  <section class="w-full h-[1287px] py-48 my-28">
     <div class="flex justify-evenly">
       <div class="flex flex-col gap-y-12">
         <h1 class="text-4xl uppercase font-medium">Mes compétences</h1>
@@ -103,6 +103,9 @@
         <p class="text-lg">Aenean tortor libero, condimentum ac laoreet vitae, varius tempor nisi. Duis non arcu vel <br> lectus urna mollis ornare vel leo varius blandit sit amet non magna eget risus.</p>
       </div>
     </div>
+  </section>
+  <section class="w-full h-[1783px] bg-[#222526]">
+
   </section>
 </template>
 
