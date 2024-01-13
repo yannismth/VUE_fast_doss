@@ -105,7 +105,22 @@
     </div>
   </section>
   <section class="w-full h-[1783px] bg-[#222526]">
-
+    <div class="flex flex-col w-full h-full justify-center text-white">
+      <div class="flex mb-16 gap-[80px] justify-center">
+        <div class="w-[660px] h-auto">
+          <h1 class="text-[40px] uppercase font-bold">Donnez vie à vos designs.</h1>
+        </div>
+        <div class="w-[660px] h-auto">
+          <p class="text-[24px]">J'ai contribué à divers projets en mettant en œuvre mes compétences en UX/UI Design et en apportant ma vision créative.</p>
+        </div>
+      </div>
+      <div class="grid grid-cols-2 w-7/12 mx-auto gap-[80px]">
+          <img src="../src/assets/mockupone.png" class="w-[660px] h-[540px] place-self-end rounded-lg">
+          <img src="../src/assets/mockuptwo.png" class="w-[660px] h-[540px] rounded-lg">
+          <img src="../src/assets/mockupt.png" class="w-[660px] h-[540px] place-self-end rounded-lg">
+          <img src="../src/assets/mockupf.png" class="w-[660px] h-[540px] rounded-lg">
+      </div>
+    </div>
   </section>
 </template>
 
