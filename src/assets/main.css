@@ -1,2 +1,4 @@
 @import './base.css';
-
+body{
+    overflow-x: hidden;
+}
